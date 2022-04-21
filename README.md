@@ -1,6 +1,7 @@
 ## Getting Started
-<br/>
 Application was build using:
+<br/>
+
 NextJS for best SEO score posibble,
 Redux Toolkit as managment of store,
 React Query for fetching data from server,
