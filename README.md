@@ -1,4 +1,3 @@
-<br/>
 ## Getting Started
 <br/>
 Application was build using:
