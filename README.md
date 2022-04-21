@@ -1,12 +1,20 @@
 ## Getting Started
 Application was build using:
 <br/>
-
 NextJS for best SEO score posibble,
+<br/>
 Redux Toolkit as managment of store,
+<br/>
 React Query for fetching data from server,
+<br/>
 ESlint to analyze code and find problems,
-Gitlab helps a lot with pipelines,
-Tailwind CSS as great responsible and fast design,
-SWR and API for showcasing products on page,
-and some libraries to have nice art gallery.
+<br/>
+
+Gitlab helps a lot with pipelines,<br/>
+
+Tailwind CSS as great responsible and fast design,<br/>
+
+SWR and API for showcasing products on page,<br/>
+
+and some libraries to have nice art gallery.<br/>
+
