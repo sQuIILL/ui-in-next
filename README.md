@@ -1,5 +1,5 @@
 ## Getting Started
-
+<br/>
 Application was build using:
 NextJS for best SEO score posibble,
 Redux Toolkit as managment of store,
