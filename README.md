@@ -14,8 +14,6 @@ Gitlab helps a lot with pipelines,
 <br/>
 Tailwind CSS as great responsible and fast design,
 <br/>
-SWR and API for showcasing products on page,
-<br/>
 and some library to have nice art gallery.
 <br/>
 
