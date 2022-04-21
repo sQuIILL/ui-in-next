@@ -16,6 +16,7 @@ Tailwind CSS as nice and responsible design,
 <br/>
 and some library to have nice art gallery.
 <br/>
+Django, django-rest-framework and sqLite is in backend.
 <br/>
 <br/>
 
