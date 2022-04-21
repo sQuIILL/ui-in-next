@@ -1,0 +1,26 @@
+.title {
+    margin: 0;
+    line-height: 1.15;
+    font-size: 4rem;
+}
+
+.title,
+.description {
+    text-align: center;
+}
+
+.description {
+    margin: 4rem 0;
+    line-height: 1.5;
+    font-size: 1.5rem;
+}
+.czarnyBox3{
+    background-color: black;
+    width: 100%;
+    height:400px;
+
+}
+.szaryBox3{
+    background-color: rgb(138, 138, 138);
+    width: 100%
+}
